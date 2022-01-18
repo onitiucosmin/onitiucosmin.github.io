@@ -58,10 +58,10 @@ const technologies = [
 
 const Tech = () => (
   <div className="gpt3__possibility section__padding row" id="possibility">
-    <div className="gpt3__possibility-image col-md-5 col-xs-12">
+    <div className="gpt3__possibility-image col-lg-5 col-md-12">
       <img src={urielImage} alt="possibility" />
     </div>
-    <div className="gpt3__possibility-content col-md-7 col-xs-12">
+    <div className="gpt3__possibility-content col-lg-7 col-md-12">
       <h1 className="gradient__text">What have I worked with?</h1>
       {technologies.map((item, index) => (
         <div key={index}>

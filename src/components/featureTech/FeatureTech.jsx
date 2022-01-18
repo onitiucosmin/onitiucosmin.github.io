@@ -3,15 +3,23 @@ import './featureTech.css';
 
 const FeatureTech = ({ title, text, imgsrc }) => (
   <div className="gpt3__features-container__feature-tech row">
-    <div className="gpt3__features-container__feature-title-tech col-4">
-      <div />
-      <h1>{title}</h1>
+    <div className="col-lg-6 col-sm-12">
+      <div className="row">
+        <div className="col-9">
+          <div className="gpt3__features-container__feature-title-tech">
+            <div />
+            <h1>{title}</h1>
+          </div>
+        </div>
+        <div className="col-3">
+          <img src={imgsrc} className="language_icon-tech" style={{ color: 'white' }} />
+        </div>
+      </div>
     </div>
-    <div className="col-2">
-      <img src={imgsrc} className="language_icon-tech" style={{ color: 'white' }} />
-    </div>
-    <div className="gpt3__features-container_feature-text-tech col-6">
-      <p>{text}</p>
+    <div className="col-lg-6 col-sm-12">
+      <div className="gpt3__features-container_feature-text-tech col-lg-6">
+        <p>{text}</p>
+      </div>
     </div>
     <hr style={{ color: 'white' }} />
   </div>

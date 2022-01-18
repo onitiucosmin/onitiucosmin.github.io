@@ -3,7 +3,6 @@
 }
 
 .gpt3__features-container__feature-title-tech {
-    max-width: 180px;
     margin-right: 2rem;
 }
 
@@ -22,10 +21,6 @@
     background: var(--gradient-bar);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     margin-bottom: 0.25rem;
-}
-
-.gpt3__features-container_feature-text-tech {
-    max-width: 390px;
 }
 
 .gpt3__features-container_feature-text-tech p {
