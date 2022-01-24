@@ -111,7 +111,7 @@ a {
   position: fixed;
   width: 36px;
   height: 30px;
-  left: 36px;
+  right: 36px;
   top: 36px;
 }
 
@@ -149,11 +149,11 @@ Note: Beware of modifying this element as it can break the animations - you shou
 
 /* General sidebar styles */
 .bm-menu {
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0);
   height: 85vh;
   padding: 2.5em 1.5em 0;
   font-size: 1.15em;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 /* Morph shape necessary with bubble or elastic */
@@ -163,18 +163,20 @@ Note: Beware of modifying this element as it can break the animations - you shou
 
 /* Wrapper for item list */
 .bm-item-list {
-  color: #000000;
+  color: #ffffffc6;
   padding: 0.8em;
 }
 
 /* Individual item */
 .bm-item {
   display: inline-block;
+  color: rgba(255, 255, 255, 0.802);
+  font-size: 120%;
 }
 
 /* Styling of overlay */
 .bm-overlay {
-  background: rgba(0, 0, 0, 0.131);
+  background: rgba(0, 0, 0, 0);
 }
 
 .menuItem {

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { slide as Menu } from 'react-burger-menu';
 import Languages from './containers/languages/languages';
 import { Footer, Blog, Tech, StrongPoints, Header, Courses, Work } from './containers';
@@ -7,11 +7,8 @@ import { CTA, Navbar } from './components';
 import './App.css';
 
 const App = () => {
-  const [openBurgerMenu, setOpenBurgerMenu] = useState(false);
-
-  useEffect(() => {
-    setTimeout(() => { setOpenBurgerMenu(true); }, 2000);
-  }, []);
+  //  eslint-disable-next-line
+  const [openBurgerMenu, setOpenBurgerMenu] = useState(true);
 
   return (
     <div className="App" id="outer-container">
@@ -20,16 +17,17 @@ const App = () => {
         pageWrapId="page-wrap"
         outerContainerId="outer-container"
         isOpen={openBurgerMenu}
+        noOverlay
+        right
       >
-        <h3 style={{ marginBottom: '2rem' }}>Contents</h3>
-        <a href="#home"><button type="button" className="menuItem btn btn-outline-dark">Home</button></a>
-        <a href="#wgpt3"><button type="button" className="menuItem btn btn-outline-dark">What represents me?</button></a>
-        <a href="#features"><button type="button" className="menuItem btn btn-outline-dark">My programming languages</button></a>
-        <a href="#possibility"><button type="button" className="menuItem btn btn-outline-dark">Familliar technologies</button></a>
-        <a href="#portfolio"><button type="button" className="menuItem btn btn-outline-dark">See my porfolio</button></a>
-        <a href="#wgpt3course"><button type="button" className="menuItem btn btn-outline-dark">Followed Courses</button></a>
-        <a href="#possibilitywork"><button type="button" className="menuItem btn btn-outline-dark">Work experiences and Studies</button></a>
-        <a href="#contact"><button type="button" className="menuItem btn btn-outline-dark">Contact me</button></a>
+        <a href="#home"><p className="lead menuItem">Home</p></a>
+        <a href="#wgpt3"><p className="lead menuItem">What represents me?</p></a>
+        <a href="#features"><p className="lead menuItem">My programming languages</p></a>
+        <a href="#possibility"><p className="lead menuItem">Familliar technologies</p></a>
+        <a href="#portfolio"><p className="lead menuItem">See my porfolio</p></a>
+        <a href="#wgpt3course"><p className="lead menuItem">Followed Courses</p></a>
+        <a href="#possibilitywork"><p className="lead menuItem">Work experiences and Studies</p></a>
+        <a href="#contact"><p className="lead menuItem">Contact me</p></a>
       </Menu>
       <main id="page-wrap">
         <div className="gradient__bg">
