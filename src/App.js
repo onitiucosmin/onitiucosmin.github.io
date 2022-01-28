@@ -8,7 +8,7 @@ import './App.css';
 
 const App = () => {
   //  eslint-disable-next-line
-  const [openBurgerMenu, setOpenBurgerMenu] = useState(true);
+  const [openBurgerMenu, setOpenBurgerMenu] = useState(false);
 
   return (
     <div className="App" id="outer-container">
