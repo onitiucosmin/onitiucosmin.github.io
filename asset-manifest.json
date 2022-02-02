@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c6238570.chunk.css",
-    "main.js": "/static/js/main.92ebc355.chunk.js",
-    "main.js.map": "/static/js/main.92ebc355.chunk.js.map",
+    "main.js": "/static/js/main.f5d9ef20.chunk.js",
+    "main.js.map": "/static/js/main.f5d9ef20.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.166f362e.js",
     "runtime-main.js.map": "/static/js/runtime-main.166f362e.js.map",
     "static/js/2.ea2821a3.chunk.js": "/static/js/2.ea2821a3.chunk.js",
@@ -36,6 +36,10 @@
     "static/media/WagtailRocket-4.5c23e2c0.png": "/static/media/WagtailRocket-4.5c23e2c0.png",
     "static/media/WagtailRocket-5.466d69ee.png": "/static/media/WagtailRocket-5.466d69ee.png",
     "static/media/goldenLaurel.a08c4d28.png": "/static/media/goldenLaurel.a08c4d28.png",
+    "static/media/kryptonet-1.32b850dd.PNG": "/static/media/kryptonet-1.32b850dd.PNG",
+    "static/media/kryptonet-2.5d95c701.PNG": "/static/media/kryptonet-2.5d95c701.PNG",
+    "static/media/kryptonet-3.5c3e27e5.PNG": "/static/media/kryptonet-3.5c3e27e5.PNG",
+    "static/media/kryptonet-4.10bec196.PNG": "/static/media/kryptonet-4.10bec196.PNG",
     "static/media/profilepicture.3af5ae35.jpg": "/static/media/profilepicture.3af5ae35.jpg",
     "static/media/uriel-soberanes.f4b73093.jpg": "/static/media/uriel-soberanes.f4b73093.jpg"
   },
@@ -43,6 +47,6 @@
     "static/js/runtime-main.166f362e.js",
     "static/js/2.ea2821a3.chunk.js",
     "static/css/main.c6238570.chunk.css",
-    "static/js/main.92ebc355.chunk.js"
+    "static/js/main.f5d9ef20.chunk.js"
   ]
 }
