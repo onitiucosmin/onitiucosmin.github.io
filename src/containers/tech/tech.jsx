@@ -40,6 +40,11 @@ const technologies = [
     src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg',
   },
   {
+    title: 'TailwindCSS',
+    text: 'Learnt more recently than Bootstrap, but an amazing way to upgrade my style',
+    src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg',
+  },
+  {
     title: 'jQuery',
     text: 'Made life a lot easier in my simpler projects',
     src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg',

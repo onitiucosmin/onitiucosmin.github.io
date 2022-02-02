@@ -6,7 +6,7 @@ import wagtail4 from '../assets/WagtailRocket-4.png';
 
 const wagtailRocket = (
   <div>
-    <h1 style={{ color: 'rgb(55, 51, 51)' }} className="text-center my-2">
+    <h1 style={{ color: 'rgb(55, 51, 51)' }} className="text-center my-4">
       <a href="https://github.com/Python-Experiences-Onitiu-Cosmin/Rocketman-FullStack-Web-Dev" rel="noreferrer" target="_blank" style={{ textDecoration: 'none', color: 'rgb(53, 105, 145)' }}>
         INTRODUCTION (GitHub Link)
       </a>

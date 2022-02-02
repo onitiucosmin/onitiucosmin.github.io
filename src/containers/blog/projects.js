@@ -1,6 +1,6 @@
 // eslint-disable-next-line
-import { goldenLaurel, movieNext, wagtailRocket, osfAcademy, cppAlumni, imageRec } from './imports';
-import { imageReco, mthreeAlumni, movieApp, osfProj, godMenu, wagtail } from './jsximports';
+import { goldenLaurel, movieNext, wagtailRocket, osfAcademy, cppAlumni, imageRec, kryptoImage } from './imports';
+import { imageReco, mthreeAlumni, movieApp, osfProj, godMenu, wagtail, kryptonet } from './jsximports';
 
 const devProjects = [
   {
@@ -9,6 +9,13 @@ const devProjects = [
     tags: ['React', 'Mongo', 'REST', 'Redux', 'Node'],
     htmlname: godMenu,
     image: goldenLaurel,
+  },
+  {
+    name: 'KryptoNet',
+    description: 'First dip into the Web 3.0 and Blockchain technology',
+    tags: ['React', 'Smart-Contracts', 'Web 3.0'],
+    htmlname: kryptonet,
+    image: kryptoImage,
   },
   {
     name: 'Wagtail (Django CMS) for Python',

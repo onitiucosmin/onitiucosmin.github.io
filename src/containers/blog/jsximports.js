@@ -4,6 +4,7 @@ import movieApp from '../../projects/MovieNextApp';
 import osfProj from '../../projects/OSFProject';
 import godMenu from '../../projects/TheGodMenu';
 import wagtail from '../../projects/WagtailRocket';
+import kryptonet from '../../projects/Kryptonet';
 
 export {
   imageReco,
@@ -12,4 +13,5 @@ export {
   osfProj,
   godMenu,
   wagtail,
+  kryptonet,
 };

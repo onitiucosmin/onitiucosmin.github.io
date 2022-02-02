@@ -4,6 +4,7 @@ import movieNext from '../../assets/MovieNextApp-2.png';
 import osfAcademy from '../../assets/OSFAcademyProject-2.png';
 import cppAlumni from '../../assets/CPPAlumni.png';
 import imageRec from '../../assets/ImageRecognition-6.png';
+import kryptoImage from '../../assets/kryptonet-4.PNG';
 
 export {
   goldenLaurel,
@@ -12,4 +13,5 @@ export {
   osfAcademy,
   cppAlumni,
   imageRec,
+  kryptoImage,
 };
