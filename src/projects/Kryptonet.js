@@ -20,6 +20,7 @@ const kryptonet = (
       my eyes regarding what is possible at the moment and what is to come in the future for Web 3.0. Seems the world is moving towards a different direction.
       The project itself, at least on the front-end was quite simple, but it was the first time i have used TailwindCSS and it was so fun. It does feel like a different Bootstrap to me, which
       just means more options to choose from and learn.
+      Also, a new tool shown in this project is Vite, a tooling which makes developing React apps much faster.
     </p>
     <h1 style={{ color: 'rgb(55, 51, 51)', marginTop: '4rem', marginBottom: '4rem' }} className="text-center">
       Old and new lessons
@@ -36,6 +37,7 @@ const kryptonet = (
     </p>
     <h4 style={{ color: 'rgb(55, 51, 51)', marginTop: '1rem', marginBottom: '1rem' }}>New tools at my disposal</h4>
     <p>
+      Before listing the blockchain tools, a special mention to Vite, making the development process of my React apps much faster.
       Starting from Metamask which was a simple wallet to use and create new accounts for testing, to Ropsten faucet for grabbing Dummy Ethereum so i do not have to spend real money on Gas Fees,
       and Alchemy for providing me the base for making blockchain requests.
     </p>
