@@ -5,6 +5,7 @@ import osfAcademy from '../../assets/OSFAcademyProject-2.png';
 import cppAlumni from '../../assets/CPPAlumni.png';
 import imageRec from '../../assets/ImageRecognition-6.png';
 import kryptoImage from '../../assets/kryptonet-4.PNG';
+import expenseVoice from '../../assets/ExpenseVoice-2.png';
 
 export {
   goldenLaurel,
@@ -14,4 +15,5 @@ export {
   cppAlumni,
   imageRec,
   kryptoImage,
+  expenseVoice,
 };

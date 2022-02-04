@@ -1,6 +1,6 @@
 // eslint-disable-next-line
-import { goldenLaurel, movieNext, wagtailRocket, osfAcademy, cppAlumni, imageRec, kryptoImage } from './imports';
-import { imageReco, mthreeAlumni, movieApp, osfProj, godMenu, wagtail, kryptonet } from './jsximports';
+import { goldenLaurel, movieNext, wagtailRocket, osfAcademy, cppAlumni, imageRec, kryptoImage, expenseVoice } from './imports';
+import { imageReco, mthreeAlumni, movieApp, osfProj, godMenu, wagtail, kryptonet, expense } from './jsximports';
 
 const devProjects = [
   {
@@ -16,6 +16,13 @@ const devProjects = [
     tags: ['React', 'Smart-Contracts', 'Web 3.0'],
     htmlname: kryptonet,
     image: kryptoImage,
+  },
+  {
+    name: 'Voice powered Expense App',
+    description: 'A simple expense tracker using Speechlys machine learning model for voice recog.',
+    tags: ['Speechly', 'React + useContext', 'MUI'],
+    htmlname: expense,
+    image: expenseVoice,
   },
   {
     name: 'Wagtail (Django CMS) for Python',

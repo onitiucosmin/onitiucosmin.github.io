@@ -5,6 +5,7 @@ import osfProj from '../../projects/OSFProject';
 import godMenu from '../../projects/TheGodMenu';
 import wagtail from '../../projects/WagtailRocket';
 import kryptonet from '../../projects/Kryptonet';
+import expense from '../../projects/Expense';
 
 export {
   imageReco,
@@ -14,4 +15,5 @@ export {
   godMenu,
   wagtail,
   kryptonet,
+  expense,
 };
