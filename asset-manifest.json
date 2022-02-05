@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c6238570.chunk.css",
-    "main.js": "/static/js/main.66e3889e.chunk.js",
-    "main.js.map": "/static/js/main.66e3889e.chunk.js.map",
+    "main.js": "/static/js/main.6100d154.chunk.js",
+    "main.js.map": "/static/js/main.6100d154.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.166f362e.js",
     "runtime-main.js.map": "/static/js/runtime-main.166f362e.js.map",
     "static/js/2.ea2821a3.chunk.js": "/static/js/2.ea2821a3.chunk.js",
@@ -32,6 +32,8 @@
     "static/media/OSFAcademyProject-2.8f7fe04c.png": "/static/media/OSFAcademyProject-2.8f7fe04c.png",
     "static/media/OSFAcademyProject-3.af93bc9f.png": "/static/media/OSFAcademyProject-3.af93bc9f.png",
     "static/media/OSFAcademyProject-4.01c7b83c.png": "/static/media/OSFAcademyProject-4.01c7b83c.png",
+    "static/media/TeamsCopy-1.55d85591.PNG": "/static/media/TeamsCopy-1.55d85591.PNG",
+    "static/media/TeamsCopy-2.e673634e.PNG": "/static/media/TeamsCopy-2.e673634e.PNG",
     "static/media/WagtailRocket-1.a8dbad88.png": "/static/media/WagtailRocket-1.a8dbad88.png",
     "static/media/WagtailRocket-2.69ce6c1f.png": "/static/media/WagtailRocket-2.69ce6c1f.png",
     "static/media/WagtailRocket-3.58d59dea.png": "/static/media/WagtailRocket-3.58d59dea.png",
@@ -49,6 +51,6 @@
     "static/js/runtime-main.166f362e.js",
     "static/js/2.ea2821a3.chunk.js",
     "static/css/main.c6238570.chunk.css",
-    "static/js/main.66e3889e.chunk.js"
+    "static/js/main.6100d154.chunk.js"
   ]
 }
