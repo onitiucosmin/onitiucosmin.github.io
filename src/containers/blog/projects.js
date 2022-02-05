@@ -1,6 +1,6 @@
 // eslint-disable-next-line
-import { goldenLaurel, movieNext, wagtailRocket, osfAcademy, cppAlumni, imageRec, kryptoImage, expenseVoice } from './imports';
-import { imageReco, mthreeAlumni, movieApp, osfProj, godMenu, wagtail, kryptonet, expense } from './jsximports';
+import { goldenLaurel, movieNext, wagtailRocket, osfAcademy, cppAlumni, imageRec, kryptoImage, expenseVoice, teamsImage } from './imports';
+import { imageReco, mthreeAlumni, movieApp, osfProj, godMenu, wagtail, kryptonet, expense, teams } from './jsximports';
 
 const devProjects = [
   {
@@ -30,6 +30,13 @@ const devProjects = [
     tags: ['Python', 'Django', 'Wagtail'],
     htmlname: wagtail,
     image: wagtailRocket,
+  },
+  {
+    name: 'Teams-like Chat Application with Chat Engine',
+    description: 'Developed using the Chat Engine API and React, built to simulate a Teams-like experience',
+    tags: ['React', 'npm'],
+    htmlname: teams,
+    image: teamsImage,
   },
   {
     name: 'Next.js Movie App',

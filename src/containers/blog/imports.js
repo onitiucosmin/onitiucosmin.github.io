@@ -6,6 +6,7 @@ import cppAlumni from '../../assets/CPPAlumni.png';
 import imageRec from '../../assets/ImageRecognition-6.png';
 import kryptoImage from '../../assets/kryptonet-4.PNG';
 import expenseVoice from '../../assets/ExpenseVoice-2.png';
+import teamsImage from '../../assets/TeamsCopy-2.PNG';
 
 export {
   goldenLaurel,
@@ -16,4 +17,5 @@ export {
   imageRec,
   kryptoImage,
   expenseVoice,
+  teamsImage,
 };
