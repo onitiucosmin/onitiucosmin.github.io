@@ -21,25 +21,25 @@ const App = () => {
         right
       >
         <a href="#home"><p className="lead menuItem">Home</p></a>
-        <a href="#wgpt3"><p className="lead menuItem">What represents me?</p></a>
         <a href="#features"><p className="lead menuItem">My programming languages</p></a>
         <a href="#possibility"><p className="lead menuItem">Familliar technologies</p></a>
         <a href="#portfolio"><p className="lead menuItem">See my porfolio</p></a>
-        <a href="#wgpt3course"><p className="lead menuItem">Followed Courses</p></a>
         <a href="#possibilitywork"><p className="lead menuItem">Work experiences and Studies</p></a>
+        <a href="#wgpt3course"><p className="lead menuItem">Followed Courses</p></a>
+        <a href="#wgpt3"><p className="lead menuItem">What represents me?</p></a>
         <a href="#contact"><p className="lead menuItem">Contact me</p></a>
       </Menu>
       <main id="page-wrap">
         <div className="gradient__bg">
           <Header />
         </div>
-        <StrongPoints />
         <Languages />
         <Tech />
         <CTA />
         <Blog />
-        <Courses />
         <Work />
+        <Courses />
+        <StrongPoints />
       </main>
       <Footer />
     </div>

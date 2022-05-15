@@ -7,6 +7,7 @@ import wagtail from '../../projects/WagtailRocket';
 import kryptonet from '../../projects/Kryptonet';
 import expense from '../../projects/Expense';
 import teams from '../../projects/TeamsCopy';
+import flutter from '../../projects/FlutterStart';
 
 export {
   imageReco,
@@ -18,4 +19,5 @@ export {
   kryptonet,
   expense,
   teams,
+  flutter,
 };

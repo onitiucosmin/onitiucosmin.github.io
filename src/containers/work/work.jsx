@@ -68,7 +68,7 @@ const Work = () => (
       <h1 className="gradient__text">My studies and work experiences</h1>
       <div className="row">
         {workplaces.map((item, index) => (
-          <div className="col-lg-6 col-sm-12">
+          <div className="col-lg-12 col-sm-12">
             <FeatureWork title={item.title} period={item.period} list={item.list} key={item.title + index} />
           </div>
         ))}

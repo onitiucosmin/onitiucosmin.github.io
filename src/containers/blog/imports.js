@@ -7,6 +7,7 @@ import imageRec from '../../assets/ImageRecognition-6.png';
 import kryptoImage from '../../assets/kryptonet-4.PNG';
 import expenseVoice from '../../assets/ExpenseVoice-2.png';
 import teamsImage from '../../assets/TeamsCopy-2.PNG';
+import flutterImage from '../../assets/flutter.png';
 
 export {
   goldenLaurel,
@@ -18,4 +19,5 @@ export {
   kryptoImage,
   expenseVoice,
   teamsImage,
+  flutterImage,
 };

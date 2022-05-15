@@ -1,6 +1,6 @@
 // eslint-disable-next-line
-import { goldenLaurel, movieNext, wagtailRocket, osfAcademy, cppAlumni, imageRec, kryptoImage, expenseVoice, teamsImage } from './imports';
-import { imageReco, mthreeAlumni, movieApp, osfProj, godMenu, wagtail, kryptonet, expense, teams } from './jsximports';
+import { goldenLaurel, movieNext, wagtailRocket, osfAcademy, cppAlumni, imageRec, kryptoImage, expenseVoice, teamsImage, flutterImage } from './imports';
+import { imageReco, mthreeAlumni, movieApp, osfProj, godMenu, wagtail, kryptonet, expense, teams, flutter } from './jsximports';
 
 const devProjects = [
   {
@@ -16,6 +16,13 @@ const devProjects = [
     tags: ['React', 'Smart-Contracts', 'Web 3.0'],
     htmlname: kryptonet,
     image: kryptoImage,
+  },
+  {
+    name: 'Flutter basic projects',
+    description: 'Leaning Flutter for future App development in the mobile enviroment',
+    tags: ['Mobile', 'Flutter'],
+    htmlname: flutter,
+    image: flutterImage,
   },
   {
     name: 'Voice powered Expense App',
