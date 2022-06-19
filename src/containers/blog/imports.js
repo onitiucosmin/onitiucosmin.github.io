@@ -8,6 +8,8 @@ import kryptoImage from '../../assets/kryptonet-4.PNG';
 import expenseVoice from '../../assets/ExpenseVoice-2.png';
 import teamsImage from '../../assets/TeamsCopy-2.PNG';
 import flutterImage from '../../assets/flutter.png';
+import nftImage from '../../assets/nftmarket-3.PNG';
+import ecommerceImage from '../../assets/ecommerce-3.PNG';
 
 export {
   goldenLaurel,
@@ -20,4 +22,6 @@ export {
   expenseVoice,
   teamsImage,
   flutterImage,
+  nftImage,
+  ecommerceImage,
 };

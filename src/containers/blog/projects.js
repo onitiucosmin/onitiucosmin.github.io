@@ -1,6 +1,6 @@
 // eslint-disable-next-line
-import { goldenLaurel, movieNext, wagtailRocket, osfAcademy, cppAlumni, imageRec, kryptoImage, expenseVoice, teamsImage, flutterImage } from './imports';
-import { imageReco, mthreeAlumni, movieApp, osfProj, godMenu, wagtail, kryptonet, expense, teams, flutter } from './jsximports';
+import { goldenLaurel, movieNext, wagtailRocket, osfAcademy, cppAlumni, imageRec, kryptoImage, expenseVoice, teamsImage, flutterImage, nftImage, ecommerceImage } from './imports';
+import { imageReco, mthreeAlumni, movieApp, osfProj, godMenu, wagtail, kryptonet, expense, teams, flutter, nftmarket, ecommerce } from './jsximports';
 
 const devProjects = [
   {
@@ -16,6 +16,20 @@ const devProjects = [
     tags: ['React', 'Smart-Contracts', 'Web 3.0'],
     htmlname: kryptonet,
     image: kryptoImage,
+  },
+  {
+    name: 'Sanity Ecommerce',
+    description: 'Building a simplified and a customizable ecommerce app',
+    tags: ['React', 'Next-js', 'Sanity/Stripe'],
+    htmlname: ecommerce,
+    image: ecommerceImage,
+  },
+  {
+    name: 'NFT Markeplace React Native',
+    description: 'First React Native Application, with a TailwindCSS made Showcase',
+    tags: ['React-Native', 'Tailwind', 'NFT'],
+    htmlname: nftmarket,
+    image: nftImage,
   },
   {
     name: 'Flutter basic projects',

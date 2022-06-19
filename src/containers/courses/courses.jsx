@@ -4,8 +4,8 @@ import './courses.css';
 
 const info = {
   udemy: ['Rest API testing, Rest Assured', 'Full-stack Web Dev Course( Python, Wagtail, Node.js)', 'Complete Next.js with React and Node',
-    'Blockchain.A-Z™.Build.Your.First.Blockchain', 'Complete.DApp-Solidity.React-Blockchain.Development', 'The.Complete.2020.Flutter.Development.Bootcamp.with.Dart',
-    'The.Complete.Solidity.Course-Blockchain-Zero.to.Expert'],
+    'Blockchain.A-Z™ Build Your First Blockchain', 'Complete DApp-Solidity React-Blockchain Development', 'The Complete 2020 Flutter Development Bootcamp with Dart',
+    'The Complete Solidity Course-Blockchain-Zero to Expert'],
   codecademy: ['Basics in Java, PHP, JS, Python, C#', 'Career Path to Full-stack engineering'],
   linkedin: ['Parallel and concurrent programming with C++', 'C++: Advanced topics, Design patterns, Best practices, Neural networks, Web Servers and APIs, Functional programming, Test drived development'],
 };

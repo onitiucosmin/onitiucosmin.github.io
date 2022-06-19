@@ -53,8 +53,8 @@ const Blog = () => {
         </Modal.Footer>
       </Modal>
       <ReactPaginate
-        previousLabel="Previous"
-        nextLabel="Next"
+        previousLabel="<"
+        nextLabel=">"
         pageCount={pageCount}
         onPageChange={handlePageClick}
         containerClassName="paginationBttns"

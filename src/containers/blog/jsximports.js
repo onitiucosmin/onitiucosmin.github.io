@@ -8,6 +8,8 @@ import kryptonet from '../../projects/Kryptonet';
 import expense from '../../projects/Expense';
 import teams from '../../projects/TeamsCopy';
 import flutter from '../../projects/FlutterStart';
+import nftmarket from '../../projects/NFTMarket';
+import ecommerce from '../../projects/Ecommerce';
 
 export {
   imageReco,
@@ -20,4 +22,6 @@ export {
   expense,
   teams,
   flutter,
+  nftmarket,
+  ecommerce,
 };
