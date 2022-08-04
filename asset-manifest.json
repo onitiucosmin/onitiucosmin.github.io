@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.b15d87d4.chunk.css",
-    "main.js": "/static/js/main.68ab51ed.chunk.js",
-    "main.js.map": "/static/js/main.68ab51ed.chunk.js.map",
+    "main.css": "/static/css/main.9b7de172.chunk.css",
+    "main.js": "/static/js/main.a740f38e.chunk.js",
+    "main.js.map": "/static/js/main.a740f38e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.166f362e.js",
     "runtime-main.js.map": "/static/js/runtime-main.166f362e.js.map",
     "static/js/2.2f408512.chunk.js": "/static/js/2.2f408512.chunk.js",
     "static/js/2.2f408512.chunk.js.map": "/static/js/2.2f408512.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b15d87d4.chunk.css.map": "/static/css/main.b15d87d4.chunk.css.map",
+    "static/css/main.9b7de172.chunk.css.map": "/static/css/main.9b7de172.chunk.css.map",
     "static/js/2.2f408512.chunk.js.LICENSE.txt": "/static/js/2.2f408512.chunk.js.LICENSE.txt",
     "static/media/CPPAlumni.8f044cc9.png": "/static/media/CPPAlumni.8f044cc9.png",
-    "static/media/CV-Onitiu_Cosmin.242a6e86.pdf": "/static/media/CV-Onitiu_Cosmin.242a6e86.pdf",
+    "static/media/CV-Onitiu_Cosmin.8cb3b555.pdf": "/static/media/CV-Onitiu_Cosmin.8cb3b555.pdf",
     "static/media/ExpenseVoice-1.6d3902c8.PNG": "/static/media/ExpenseVoice-1.6d3902c8.PNG",
     "static/media/ExpenseVoice-2.263147a0.png": "/static/media/ExpenseVoice-2.263147a0.png",
     "static/media/GodMenu-1.626a11d7.png": "/static/media/GodMenu-1.626a11d7.png",
@@ -60,7 +60,7 @@
   "entrypoints": [
     "static/js/runtime-main.166f362e.js",
     "static/js/2.2f408512.chunk.js",
-    "static/css/main.b15d87d4.chunk.css",
-    "static/js/main.68ab51ed.chunk.js"
+    "static/css/main.9b7de172.chunk.css",
+    "static/js/main.a740f38e.chunk.js"
   ]
 }
