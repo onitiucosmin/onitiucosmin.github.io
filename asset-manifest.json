@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9b7de172.chunk.css",
-    "main.js": "/static/js/main.a740f38e.chunk.js",
-    "main.js.map": "/static/js/main.a740f38e.chunk.js.map",
+    "main.js": "/static/js/main.fb944dea.chunk.js",
+    "main.js.map": "/static/js/main.fb944dea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.166f362e.js",
     "runtime-main.js.map": "/static/js/runtime-main.166f362e.js.map",
     "static/js/2.2f408512.chunk.js": "/static/js/2.2f408512.chunk.js",
@@ -55,12 +55,16 @@
     "static/media/nftmarket-2.fab6c39d.PNG": "/static/media/nftmarket-2.fab6c39d.PNG",
     "static/media/nftmarket-3.ccccd7b4.PNG": "/static/media/nftmarket-3.ccccd7b4.PNG",
     "static/media/profilepicture.3af5ae35.jpg": "/static/media/profilepicture.3af5ae35.jpg",
+    "static/media/tiktik-1.d3eb8d6b.PNG": "/static/media/tiktik-1.d3eb8d6b.PNG",
+    "static/media/tiktik-2.7f657d01.PNG": "/static/media/tiktik-2.7f657d01.PNG",
+    "static/media/tiktik-3.65d851b9.PNG": "/static/media/tiktik-3.65d851b9.PNG",
+    "static/media/tiktik-4.f8ceb0b8.PNG": "/static/media/tiktik-4.f8ceb0b8.PNG",
     "static/media/uriel-soberanes.f4b73093.jpg": "/static/media/uriel-soberanes.f4b73093.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.166f362e.js",
     "static/js/2.2f408512.chunk.js",
     "static/css/main.9b7de172.chunk.css",
-    "static/js/main.a740f38e.chunk.js"
+    "static/js/main.fb944dea.chunk.js"
   ]
 }
